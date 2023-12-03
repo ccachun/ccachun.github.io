@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Infinity</title>
+    <link>https://ccachun.github.io/categories/sql/</link>
+    <description>Recent content in SQL on Infinity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 02 Dec 2023 21:40:47 +0800</lastBuildDate><atom:link href="https://ccachun.github.io/categories/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL 語法筆記 - WHERE 子句用法</title>
+      <link>https://ccachun.github.io/blog/sql-where/</link>
+      <pubDate>Sat, 02 Dec 2023 21:40:47 +0800</pubDate>
+      
+      <guid>https://ccachun.github.io/blog/sql-where/</guid>
+      <description>WHERE 子句是在 SQL 語句中用來篩選檢索條件的部分。當你想要檢索表中滿足特定條件的資料時，就會使用 WHERE。以下是 WHERE 子句的基本用法：
+SELECT column1, column2, .</description>
+    </item>
+    
+  </channel>
+</rss>
